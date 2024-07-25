@@ -33,6 +33,7 @@ body{
   align-items: center;
   justify-content: top;
   border-radius: 5px;
+  border: 1px solid grey;
   
  
 }
@@ -73,4 +74,10 @@ select{
   margin-right: 200px;
   padding: 20px;
 
+}
+#update{
+  background-color: green;
+}
+#delete{
+  background-color: red;
 }
